@@ -1,0 +1,51 @@
+keywords:
+- data scientist
+- ingénieur IA
+- ai engineer
+- machine learning engineer
+- ingénieur machine learning
+- NLP
+- LLM
+max_age_days: 7
+departements:
+- '72'
+- '75'
+- '92'
+- '93'
+- '94'
+contract_types:
+- CDI
+exclude_title_words:
+- stage
+- alternance
+- apprenti
+- stagiaire
+- commercial
+- data analyst
+- freelance
+criteria: '- Postes : Data Scientist, ML Engineer, AI Engineer, LLM/GenAI/NLP Engineer,
+  ingénieur IA
+
+  - Contrat : CDI uniquement
+
+  - Localisation : Le Mans / Sarthe ou Paris / Île-de-France, ou full remote / télétravail
+  majoritaire
+
+  - Salaire minimum souhaité : 45k€ brut/an (si indiqué)
+
+  - Niveau : environ 2 ans d''expérience (junior à confirmé) ; éviter les postes exigeant
+  7 ans+ d''expérience
+
+  - Apprécié : Python, LLM/RAG, agents, NLP, Computer Vision/OCR, MLOps, Docker, cloud
+  (Azure), environnement startup/produit
+
+  - À éviter : ESN en régie pure, postes 100% BI/reporting, postes purement recherche
+  académique (thèse exigée)
+
+  '
+min_score: 5
+max_scored_per_run: 5
+llm:
+  delay_seconds: 4
+  base_url: http://localhost:11434/v1
+  model: qwen2.5:7b

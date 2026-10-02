@@ -1,0 +1,31 @@
+PROFIL
+Ingénieur IA / Data Scientist, né en 1999, titulaire d'un Master Informatique spécialisé en Intelligence Artificielle et Traitement du Langage Naturel. Environ 2 ans d'expérience en environnement startup sur l'ensemble du cycle de vie des projets IA, de la compréhension des enjeux métier à la livraison de solutions concrètes. Polyvalent et orienté produit. Français et très bon anglais. Disponible et mobile sur Paris et Le Mans.
+
+COMPETENCES TECHNIQUES
+- Machine Learning : apprentissage supervisé / non supervisé, modèles de prédiction et de classification
+- Deep Learning & Computer Vision : CNN, Transfer Learning, OCR et traitement d'images (PaddleOCR, OpenCV), détection d'anomalies sur images
+- NLP & IA Générative : LLMs, RAG, Embeddings, AI Agents (ReAct), LangChain, HuggingFace Transformers, Whisper, Prompt Engineering, VectorStore (ChromaDB, FAISS), ElasticSearch, Harness Engineering
+- Audio & Speech : Speech-to-Text (Whisper), traitement du signal audio, VAD, diarisation
+- Frameworks & Data : FastAPI, Streamlit, Gradio, Dash, Pandas, Polars, Plotly, Big Data
+- MLOps & Déploiement : Docker, Azure, CI/CD, GitHub
+- Bases de données : PostgreSQL, MySQL, SQLite, MongoDB
+- Langages : Python, JavaScript, TypeScript, SQL, Java
+
+EXPERIENCES PROFESSIONNELLES
+Ingénieur IA / Data Scientist - DTS Corp. (Le Mans / Paris) - Février 2024 à Janvier 2026
+- Pilotage de projets IA de bout en bout : échanges clients, analyse des besoins, développement, déploiement et mise en production.
+- Accompagnement de clients de secteurs variés (industrie, e-commerce, pharmaceutique, comptabilité) dans l'identification de cas d'usage IA.
+- Conception de solutions ML, Computer Vision et IA Générative : systèmes RAG, agents conversationnels, pipelines OCR, outils d'analyse, systèmes de recommandation.
+- Réalisation de POC et prototypes, puis industrialisation.
+- Environnement startup, équipe réduite, rôle hybride Data Science / AI Engineering / développement logiciel. Management et coordination de l'équipe, forte autonomie, responsabilité des choix techniques.
+- Conception et animation de formations sur le ML, Deep Learning, Computer Vision, NLP et IA Générative.
+
+Développeur Full Stack (Stage) - Infotel (Le Mans) - Avril à Juillet 2023
+- Développement et maintenance d'applications web (JavaScript, TypeScript, SQL, Java, Node.js).
+
+Développeur Mobile (Stage) - MMA Coach AAC (Le Mans) - Avril à Août 2022
+- Applications mobiles multiplateformes iOS / Android (Capacitor, Ionic, Cordova, TypeScript).
+
+FORMATION
+- Master Informatique, Intelligence Artificielle, spécialité Traitement du Langage Naturel - Le Mans Université (2021-2024)
+- Licence Informatique - Le Mans Université (2016-2020)

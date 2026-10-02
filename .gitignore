@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.local
+
+# Tes données
+offers.db
+*.db
+resultats.csv
+python-path.txt
+
+# Généré
+node_modules
+dist
+release
+__pycache__
+.DS_Store
